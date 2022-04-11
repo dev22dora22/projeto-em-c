@@ -1,4 +1,4 @@
-# projeto-em-c
+PROJETO EM C
 
 LINGUAGEM C.
 
